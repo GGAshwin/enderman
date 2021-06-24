@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.face{
+    background-color: black;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.eyes{
+    /*background-color: rgb(97, 1, 97);*/
+    background-color: rgb(161, 80, 161);
+    height: 7vh;
+    width: 20vh;
+    display: flex;
+    align-items: stretch;
+    justify-content: center;
+    margin: 50px;
+}
+.pupils{
+    background-color: rgb(97, 1, 97);
+    height: 100%;
+    width:7vh;
+}
